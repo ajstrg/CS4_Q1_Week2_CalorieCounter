@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-
 class Exercise {
 
   int day;
