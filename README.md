@@ -9,7 +9,7 @@ You can also choose how many hours you will do it for the particular day.
 After 7 days, the application should show the total calories burned for the week and will ask if it will repeat the process.
 
 ### Flowchart
-![qownnotes-media-RIrEXa](README Flowchart.png)
+![qownnotes-media-RIrEXa](Flowchart.png)
 
 ### Sample Run
 
